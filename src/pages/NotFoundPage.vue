@@ -1,6 +1,5 @@
-<template>
-  <h1 class="title">404 Страница не найдена</h1>
-<!--  <p>{{ this.$router }}</p>-->
+<template lang="pug">
+h1.article-title 404 Страница не найдена
 </template>
 
 <script>
